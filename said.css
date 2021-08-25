@@ -1,0 +1,47 @@
+body{
+  margin: 10px;
+  padding: 0;
+  background: url(go.jpg) no-repeat;
+  background-size: 1040px;
+  background-position: center;
+}
+.box{
+  width: 420px;
+  background: rgba(0, 0, 0, 0.788);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: rgb(198, 204, 194);
+  font-family: 'Century Gothic',sans-serif;
+}
+.box-img{
+  border-radius: 70%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: 120;
+  color: #ad62b4;
+}
+.box h5{
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+
+#man li{
+  display: inline-block;
+  margin: 12px;
+  padding-top: 15px;
+}
+#man li a{
+  color: rgb(92, 238, 231);
+  font-size: 20px;
+  text-decoration: aqua;
+}
+#man li a:hover{
+  color: #24555c;
+}
